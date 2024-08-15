@@ -38,4 +38,4 @@ Card Clash! is a simple and entertaining memory matching game implemented using 
 - Bootstrap JavaScript (v5.0.2): Included via CDN for additional functionality.
 - jQuery (v3.2.1): Included via CDN for DOM manipulation.
 
-git clone ```https://github.com/Siva-54/Clash-Cards.git```
+git clone ```https://github.com/yashwanth0315/card_clash.git```
